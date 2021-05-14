@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#bu)
+  - [Built With](#built)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -36,18 +36,15 @@
 
 ## Overview
 
-![screenshot]
 <img src="./screenshot/404-desktop.png" alt="">
 <img src="./screenshot/404-mobile.png" alt="">
 
 ### Built With
 
-- [HTML](https://reactjs.org/)
-- [CSS](https://vuejs.org/)
+- [HTML]
+- [CSS]
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
